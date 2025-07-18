@@ -1,4 +1,4 @@
-package org.example.PracticeAPI;
+package org.example.tests.CRUD.PracticeAPI;
 
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;
