@@ -20,4 +20,5 @@ public class ReuseBDD {
         r = rs.when().log().all().get();
         vr = r.then().log().all().statusCode(200);
     }
+
 }
